@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2022","module":"commonjs","moduleResolution":"node","lib":["ES2022"],"outDir":"dist","rootDir":".","strict":true,"noUncheckedIndexedAccess":true,"esModuleInterop":true,"sourceMap":true,"skipLibCheck":true,"forceConsistentCasingInFileNames":true},"include":["src/**/*.ts","test/**/*.ts"],"exclude":["node_modules"]}
